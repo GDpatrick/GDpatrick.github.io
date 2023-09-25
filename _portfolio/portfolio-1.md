@@ -1,11 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Twakes.png'>"
+title: "Two capsules past a sharp corner"
+excerpt: "Deformation and streamlines of two capsules past a sharp corner in microfluidic devices. <br/><img src='/images/caps_corner.png'  width='800'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
 
 
-
-![Editing a markdown file for a talk](/images/Re200O0.3.png)
+Deformation and streamlines of two capsules past a sharp corner in microfluidic devices
+![Editing a markdown file for a talk](/images/caps_corner.png)
