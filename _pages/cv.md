@@ -55,7 +55,7 @@ Awards
  Vancouver, Canada
 * April. 2023 PIMS PDF Travel Funding, Pacific Institute for the Mathematical Sciences
  Vancouver, Canada
-* May. 2022 Mathematics Department’s Postdoctoral Teaching Prize, University of British Columbia
+* May. 2022 **Mathematics Department’s Postdoctoral Teaching Prize**, University of British Columbia
  Vancouver, Canada
 * Jan. 2022 PIMS-CNRS Postdoctoral Fellowship, Pacific Institute for the Mathematical Sciences
  Vancouver, Canada
